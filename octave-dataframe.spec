@@ -3,7 +3,7 @@
 Summary:	Data manipulation toolbox for Octave
 Name:		octave-%{pkgname}
 Version:	0.8.2
-Release:	4
+Release:	5
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv3+
 Group:		Sciences/Mathematics
