@@ -7,7 +7,7 @@ Release:	1
 Source0:	https://downloads.sourceforge.net/octave/%{octpkg}-%{version}.tar.gz
 License:	GPLv3+
 Group:		Sciences/Mathematics
-Url:		https://octave.sourceforge.io/%{octpkg}/
+Url:		https://packages.octave.org/%{octpkg}/
 BuildArch:	noarch
 
 BuildRequires:	octave-devel >= 3.4.0
@@ -19,8 +19,6 @@ Requires(postun): octave
 
 %description
 Data manipulation toolbox for Octave similar to R data.frame.
-
-This package is part of community Octave-Forge collection.
 
 %files
 %license COPYING
