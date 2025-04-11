@@ -3,7 +3,7 @@
 Summary:	Data manipulation toolbox for Octave
 Name:		octave-dataframe
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	GPLv3+
 Group:		Sciences/Mathematics
 Url:		https://packages.octave.org/dataframe/
